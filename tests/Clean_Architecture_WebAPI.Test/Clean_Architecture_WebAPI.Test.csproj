@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Clean_Architecture_WebAPI\Clean_Architecture_WebAPI\Clean_Architecture_WebAPI.csproj" />
+    <ProjectReference Include="..\..\src\WebApi\Clean_Architecture_WebAPI\Clean_Architecture_WebAPI\Clean_Architecture_WebAPI.csproj" />
   </ItemGroup>
 
   <ItemGroup>
