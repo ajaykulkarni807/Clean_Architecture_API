@@ -3,27 +3,6 @@
 **Overview**
 This project is an example implementation of Clean Architecture in an ASP.NET Core Web API application. The Clean Architecture is a software design pattern that separates concerns into distinct layers, promoting maintainability, testability, and scalability.
 
-Project Structure
-
-/WebApi
-|-- /src
-|   |-- /Application
-|   |   |-- /Interfaces
-|   |   |-- /Services
-|   |-- /Domain
-|   |   |-- /Entities
-|   |   |-- /Interfaces
-|   |-- /Infrastructure
-|   |   |-- /Data
-|   |   |-- /Repositories
-|   |-- /WebApi
-|   |   |-- /Controllers
-|   |   |-- /Models
-|   |   |-- /DTOs
-|-- /tests
-|   |-- /UnitTests
-
-
 **Technologies Used**
 
 ASP.NET Core 
